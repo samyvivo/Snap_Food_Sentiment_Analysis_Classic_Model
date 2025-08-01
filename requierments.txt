@@ -1,8 +1,10 @@
+numpy
+joblib
 streamlit
 pandas
 scikit-learn
-joblib
 matplotlib
 wordcloud
 arabic-reshaper
 python-bidi
+
