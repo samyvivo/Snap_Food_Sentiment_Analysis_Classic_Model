@@ -1,4 +1,4 @@
-🚀 New Project: SnapFood Sentiment Analysis (in Persian)
+SnapFood Sentiment Analysis (in Persian) 🍔
 
  Over the past few days, I worked on a machine learning project to analyze user sentiment in Farsi (Persian) based on SnapFood app reviews.
 
